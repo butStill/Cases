@@ -7,4 +7,6 @@
 
 ## Fallout
 
-- 
+- Splash screens, box, manual, interface, website should all be part of the universe - no element added that doesn't match (the perk avatar guy)
+- Deeply embeded easter eggs and references - encourage inside jokes
+- Test it with all the different gameplay styles - use the devs and indirectly encourage them to make stuff they enjoy
