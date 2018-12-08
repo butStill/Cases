@@ -42,3 +42,5 @@
 ## WoW
 
 - Mythic +
+
+- [The Design of Classic WoW](https://www.youtube.com/watch?v=LYxU7pIJHhk)
