@@ -11,3 +11,8 @@
 - Deeply embeded easter eggs and references - encourage inside jokes
 - Test it with all the different gameplay styles - use the devs and indirectly encourage them to make stuff they enjoy
 - Play off your limitations --> fallout hex system, building art style around it
+
+
+## Halo ODST
+
+- https://www.youtube.com/watch?v=-_sgryC_qk4
