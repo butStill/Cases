@@ -56,3 +56,9 @@
 ## Hollow Knight
 
 - [Joseph Anderson's Critique](https://www.youtube.com/watch?v=7t1mxoMIDfY&index=88&list=PLY19AO6MG8C4-6JIHte8CmxRfwOZPqmdY&t=0s)
+
+## Furi
+
+- Camera, combat
+
+- https://www.youtube.com/watch?v=8gRh5nKmgBU
