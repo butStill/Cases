@@ -44,3 +44,7 @@
 - Mythic +
 
 - [The Design of Classic WoW](https://www.youtube.com/watch?v=LYxU7pIJHhk)
+
+- [Environment Design of Classic Wow](https://www.youtube.com/watch?v=SBhXTcNty9I)
+
+- [Game Design of Classic WoW](https://www.youtube.com/watch?v=w6Lu3n9AbUM)
