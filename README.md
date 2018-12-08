@@ -26,3 +26,8 @@
 - [ds bosses difficulty ranking](https://www.youtube.com/watch?v=bPDic2UwDlY)
 
 - [boss reactions by streamers](https://www.youtube.com/channel/UC7FCMYUoA5Hw72MLXJDwiRw)
+
+
+## Environments 
+
+- [Top 10 cities in games](https://www.youtube.com/watch?v=CW8y-ell9As)
