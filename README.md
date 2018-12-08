@@ -48,3 +48,7 @@
 - [Environment Design of Classic Wow](https://www.youtube.com/watch?v=SBhXTcNty9I)
 
 - [Game Design of Classic WoW](https://www.youtube.com/watch?v=w6Lu3n9AbUM)
+
+## Monster Hunter World
+
+- [review](https://www.youtube.com/watch?v=88_4E4RsO58&t=165s)
