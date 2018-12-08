@@ -27,6 +27,8 @@
 
 - [boss reactions by streamers](https://www.youtube.com/channel/UC7FCMYUoA5Hw72MLXJDwiRw)
 
+- [the endings of bloodborne](https://www.youtube.com/watch?v=If9BmlbLGUM)
+
 
 ## Environments 
 
