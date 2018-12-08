@@ -62,3 +62,7 @@
 - Camera, combat
 
 - https://www.youtube.com/watch?v=8gRh5nKmgBU
+
+## Nier Automata
+
+- https://www.youtube.com/watch?v=-NiyfG8Ctbo&t=165s
