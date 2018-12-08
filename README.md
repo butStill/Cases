@@ -16,3 +16,11 @@
 ## Halo ODST
 
 - https://www.youtube.com/watch?v=-_sgryC_qk4
+
+## DS and BB
+
+- [Mitch L](https://www.youtube.com/channel/UC7WDD6yHgzdqijHluCi1z-Q) - lore 
+
+- [Joseph Anderson bloodbourne critique](https://www.youtube.com/watch?v=5nAxydkwxko)
+
+- [ds bosses difficulty ranking](https://www.youtube.com/watch?v=bPDic2UwDlY)
