@@ -1,4 +1,4 @@
-# Cases
+# Cases and Stuff
 
 
 ## Ratchet and Clank
@@ -68,3 +68,11 @@
 ## Nier Automata
 
 - https://www.youtube.com/watch?v=-NiyfG8Ctbo&t=165s
+
+## Loading Screens 
+
+- https://venturebeat.com/2014/10/05/interactive-loading-screens/ --> immersion-breaking, flow-breaking, design to maximize flow or to reduce number of load screens --> make loading part of gameplay by having practice arena 
+
+- resident evil --> creating tension through loading screens, door opening animationhttps://80.lv/articles/game-details-turning-ordinary-to-extraordinary/
+
+- game tips, e.g. ds but breaks game flow --> maybe try procedurally generated animations, random minigames, practice mode
