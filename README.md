@@ -80,3 +80,11 @@
 ## The Last Guardian
 
 - using symbolism in puzzles --> teaching game mechanics --> easily memorable and prevent breakdown of immersion with random puzzles
+
+## Alto's Odyssey
+
+- UI --> how ambient sound + weather continue in the background to make it feel like you're still part of the game, how it slides from menu to menu, it's simplicity + the nice sounds for entering and exiting menus
+
+- gameplay --> easy to start playing, the animation of the guy bending his knees as he goes up slopes (capturing the feeling of snowboarding), the ambience and the sound made by the board in the sand 
+
+- main menu in general --> doesnt seem like an entirely different element to the game, immersive --> the way the menu first pops up reflects atmosphere/ambience of the game itself --> dont enter the game and then see some random menu with no relevance to the game 
