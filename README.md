@@ -76,3 +76,7 @@
 - resident evil --> creating tension through loading screens, door opening animationhttps://80.lv/articles/game-details-turning-ordinary-to-extraordinary/
 
 - game tips, e.g. ds but breaks game flow --> maybe try procedurally generated animations, random minigames, practice mode
+
+## The Last Guardian
+
+- using symbolism in puzzles --> teaching game mechanics --> easily memorable and prevent breakdown of immersion with random puzzles
